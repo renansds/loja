@@ -1,4 +1,4 @@
-Movimento.javapackage br.com.loja.orcamento.model;
+package br.com.loja.orcamento.model;
 
 public class Orcamento {
 
